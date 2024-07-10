@@ -8,7 +8,8 @@ Projeto construído do evento Next Level Week da Rocketseat.
 
 ## 🛠 Tecnologias
 
-- React
+- ReactJS
+- Tailwind CSS
 - TypeScript
 - Git e Github
 
